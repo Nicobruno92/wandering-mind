@@ -1,7 +1,7 @@
 ##########################################################################
 ########                        SETTINGS                          ########
 ##########################################################################
-exp_name='Visual_Paired_Comparison'
+exp_name='SART'
 
 results_folder='./results/'
 
@@ -22,12 +22,10 @@ window_units = 'deg'
 ##########################################################################
 text_height=1
 
+stim_height = 4
+
 fixation_time=1
 
-familiarization_time=5
-
-delay=5  # 120
-
-test_time=5
+stim_time=1
 
 iti=2

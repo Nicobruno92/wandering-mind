@@ -1,0 +1,33 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=SART_S10_sesion_A.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230214173019910776
+Mk2=FIXATION,fixation,1406,1,0
+Mk3=GO,0,1661,1,0
+Mk4=FIXATION,fixation,2446,1,0
+Mk5=GO,9,2701,1,0
+Mk6=FIXATION,fixation,3486,1,0
+Mk7=GO,6,3746,1,0
+Mk8=FIXATION,fixation,4531,1,0
+Mk9=GO,2,4791,1,0
+Mk10=FIXATION,fixation,5571,1,0
+Mk11=GO,3,5826,1,0
+Mk12=FIXATION,fixation,6606,1,0
+Mk13=GO,4,6861,1,0
+Mk14=FIXATION,fixation,7646,1,0
+Mk15=GO,8,7901,1,0
+Mk16=FIXATION,fixation,8681,1,0
+Mk17=GO,5,8936,1,0
+Mk18=FIXATION,fixation,9721,1,0
+Mk19=GO,1,9981,1,0
+Mk20=FIXATION,fixation,10766,1,0
+Mk21=GO,7,11016,1,0
+Mk22=PROBE,TUT,11801,1,0
